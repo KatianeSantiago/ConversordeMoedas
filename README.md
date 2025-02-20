@@ -1,1 +1,1 @@
-# ConversordeMoedas
+Neste projeto, o usuário pode selecionar uma opção em um menu interativo para converter um valor em Real (BRL) para uma das três moedas: Dólar (USD), Euro (EUR) ou Libra Esterlina (GBP). A aplicação utiliza bibliotecas e módulos para realizar as conversões, garantindo um código mais claro, objetivo e fácil de ser estendido no futuro para permitir novas possibilidades de conversão de moedas.
